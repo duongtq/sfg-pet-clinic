@@ -1,5 +1,8 @@
-com/sfg/sfgpetclinic/model/Vet.class
 com/sfg/sfgpetclinic/model/PetType.class
 com/sfg/sfgpetclinic/model/Pet.class
-com/sfg/sfgpetclinic/model/Owner.class
+com/sfg/sfgpetclinic/services/PetService.class
 com/sfg/sfgpetclinic/model/Person.class
+com/sfg/sfgpetclinic/model/Vet.class
+com/sfg/sfgpetclinic/model/Owner.class
+com/sfg/sfgpetclinic/services/VetService.class
+com/sfg/sfgpetclinic/services/OwnerService.class
